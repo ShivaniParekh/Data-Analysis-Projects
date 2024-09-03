@@ -1,0 +1,9 @@
+# Database Credentials
+DB_HOST=localhost
+DB_SCHEMA=Test
+DB_User=root
+DB_PWD=root@neon
+consumer_key="THL1DqPKiKZLxjFpwktI5Wtnw"
+consumer_sec_key="nTPymhZC5Nx26iwYyMu3KRjnIg68vlPtZmKtR8DRMEa5MiUzfk"
+access_token="1266819261760233480-2NsTfbCdbw5bhvFVmsseZpPtUIpFG8"
+access_token_secret="fs50wGr31QdbQwXy5rZBlRXi06f3OhQ95VANmZZHdbiS0"
